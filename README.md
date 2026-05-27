@@ -27,7 +27,7 @@
 ### 1. 克隆 & 安装
 
 ```bash
-git clone https://github.com/你的用户名/claude-code-wechat-bridge.git
+git clone https://github.com/l3272774047-sudo/claude-code-wechat-bridge.git
 cd claude-code-wechat-bridge
 ```
 
